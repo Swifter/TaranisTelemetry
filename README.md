@@ -36,5 +36,5 @@ The code is currently inside a Visual Studio Professional 2013 solution, built f
 
 Thanks, and good luck!
 
-Paul Scholz, swifterone@hotmail.com
+Paula Scholz, swiftress@outlook.com
 September 1, 2014
